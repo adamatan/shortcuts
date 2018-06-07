@@ -1,2 +1,2 @@
 # Action On Selected Sound
-* Duplicate: e<kbd>CTRL</kbd>+<kbd>Z</kbd> 
+* Trim: <kbd>CTRL</kbd>+<kbd>T</kbd> (Deletes outside selection, does not move selected sound) 
